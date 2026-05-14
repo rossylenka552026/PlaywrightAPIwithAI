@@ -1,0 +1,23 @@
+{
+  "name": "playwrightapiwithai",
+  "version": "1.0.0",
+  "description": "A structured JavaScript learning project covering core JavaScript concepts, Playwright testing fundamentals, and API testing — organized into chapters for progressive learning.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rossylenka552026/PlaywrightAPIwithAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rossylenka552026/PlaywrightAPIwithAI/issues"
+  },
+  "homepage": "https://github.com/rossylenka552026/PlaywrightAPIwithAI#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.7.0"
+  }
+}
